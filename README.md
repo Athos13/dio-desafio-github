@@ -1,7 +1,7 @@
 # dio-desafio-github
 Bootcamp-Desafio do  Git/GitHub 
 
-##Lista de Comandos no Terminal 
+-Lista de Comandos no Terminal
 
 dir(Windows) ls(Linux) = Lista os diretórios contidos na pasta onde estamos.
 
@@ -13,7 +13,8 @@ mkdir(Windows/Linux) = Criar nova pasta.
 
 rmdir(Windows) rm -rf(Linux) = Excluir uma pasta.
 
-###Outros Comandos Essenciais
+
+-Outros Comandos Essenciais
 
 git clone = Clonar repositório do GitHub.
 
